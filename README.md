@@ -14,3 +14,6 @@ or even decades. Therefore, often not even the delivery date of their product is
 The classical chain-ladder method is a deterministic algorithm to forecast claims based
 on historical data. It assumes that the proportional developments of claims from one development
 period to the next is the same for all origin periods.
+
+#### Please open 'ReservingAutoInsurance.R' to view R Code.
+#### Please open 'ReservingAutoInsurance.pdf' to view presentation.
